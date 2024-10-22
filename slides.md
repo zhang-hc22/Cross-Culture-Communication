@@ -62,8 +62,6 @@ How do foreigners respond to this movie scene?
 <img src="/fig2.png" style="margin: auto; max-width: 70%; max-height: 100%;">
 </div>
 
-<br>
-
 <div v-click>
 
 - They felt the same as we did
